@@ -1,0 +1,7 @@
+AC_INIT
+AM_CONFIG_HEADER(src/config.h)
+AM_INIT_AUTOMAKE(babbler,1.0)
+AC_PROG_CC
+AC_PROG_CXX
+AC_PROG_RANLIB
+AC_OUTPUT(Makefile doc/Makefile m4/Makefile src/Makefile)

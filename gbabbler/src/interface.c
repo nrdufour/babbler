@@ -19,6 +19,8 @@
 #include "interface.h"
 #include "support.h"
 
+#define TITLE "GBabbler " VERSION
+
 #define GLADE_HOOKUP_OBJECT(component,widget,name) \
   g_object_set_data_full (G_OBJECT (component), name, \
     gtk_widget_ref (widget), (GDestroyNotify) gtk_widget_unref)
@@ -761,7 +763,7 @@ create_aboutWindow (void)
   gtk_widget_show (image128);
   gtk_box_pack_start (GTK_BOX (vbox8), image128, TRUE, TRUE, 0);
 
-  aboutProgramTitleLabel = gtk_label_new (_("GBabbler v0.9"));
+  aboutProgramTitleLabel = gtk_label_new (_(TITLE));
   gtk_widget_set_name (aboutProgramTitleLabel, "aboutProgramTitleLabel");
   gtk_widget_show (aboutProgramTitleLabel);
   gtk_box_pack_start (GTK_BOX (vbox8), aboutProgramTitleLabel, FALSE, FALSE, 0);

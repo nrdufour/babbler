@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2003-11-27 00:07+0100\n"
+"POT-Creation-Date: 2004-02-03 23:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,143 +15,139 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/interface.c:124
+#: src/interface.c:126
 msgid "GBabbler"
 msgstr ""
 
-#: src/interface.c:137
+#: src/interface.c:139
 msgid "_File"
 msgstr ""
 
-#: src/interface.c:146
+#: src/interface.c:148
 msgid "_New"
 msgstr ""
 
-#: src/interface.c:156
+#: src/interface.c:158
 msgid "_Open"
 msgstr ""
 
-#: src/interface.c:166
+#: src/interface.c:168
 msgid "_Save"
 msgstr ""
 
-#: src/interface.c:176
+#: src/interface.c:178
 msgid "Save _As"
 msgstr ""
 
-#: src/interface.c:192
+#: src/interface.c:194
 msgid "_Quit"
 msgstr ""
 
-#: src/interface.c:205
+#: src/interface.c:207
 msgid "_Babble"
 msgstr ""
 
-#: src/interface.c:214
+#: src/interface.c:216
 msgid "_Find words"
 msgstr ""
 
-#: src/interface.c:224
+#: src/interface.c:226
 msgid "_Help"
 msgstr ""
 
-#: src/interface.c:233
+#: src/interface.c:235
 msgid "_About"
 msgstr ""
 
-#: src/interface.c:253
+#: src/interface.c:255
 msgid "Babbler Control"
 msgstr ""
 
-#: src/interface.c:279
+#: src/interface.c:281
 msgid "Words #"
 msgstr ""
 
-#: src/interface.c:296
+#: src/interface.c:298
 msgid "words"
 msgstr ""
 
-#: src/interface.c:323
+#: src/interface.c:325
 msgid "Length Limit"
 msgstr ""
 
-#: src/interface.c:334
+#: src/interface.c:336
 msgid "Length"
 msgstr ""
 
-#: src/interface.c:349
+#: src/interface.c:351
 msgid "reserved ;-)"
 msgstr ""
 
-#: src/interface.c:355
+#: src/interface.c:357
 msgid "Parameters"
 msgstr ""
 
-#: src/interface.c:361
+#: src/interface.c:363
 msgid "Let's Go !"
 msgstr ""
 
-#: src/interface.c:385
+#: src/interface.c:387
 msgid "Babble"
 msgstr ""
 
-#: src/interface.c:411
+#: src/interface.c:413
 msgid "Name: "
 msgstr ""
 
-#: src/interface.c:420
+#: src/interface.c:422
 msgid "Filename: "
 msgstr ""
 
-#: src/interface.c:429
+#: src/interface.c:431
 msgid "Weight: "
 msgstr ""
 
-#: src/interface.c:465
+#: src/interface.c:467
 msgid "..."
 msgstr ""
 
-#: src/interface.c:496
+#: src/interface.c:498
 msgid "Add"
 msgstr ""
 
-#: src/interface.c:523
+#: src/interface.c:525
 msgid "Remove"
 msgstr ""
 
-#: src/interface.c:550
+#: src/interface.c:552
 msgid "Modify"
 msgstr ""
 
-#: src/interface.c:568
+#: src/interface.c:570
 msgid "Themes"
 msgstr ""
 
-#: src/interface.c:748
+#: src/interface.c:750
 msgid "GBabbler About"
 msgstr ""
 
-#: src/interface.c:764
-msgid "GBabbler v0.9"
-msgstr ""
-
-#: src/interface.c:770
+#: src/interface.c:772
 msgid "Word generator from pools of words !"
 msgstr ""
 
-#: src/interface.c:776
+#: src/interface.c:778
 msgid "(c) Nicolas Dufour 2003"
 msgstr ""
 
-#: src/interface.c:808 src/interface.c:919
+#: src/interface.c:810 src/interface.c:921
 msgid "OK"
 msgstr ""
 
-#: src/interface.c:814 src/interface.c:866
+#: src/interface.c:816 src/interface.c:868
 msgid "Credits"
 msgstr ""
 
-#: src/interface.c:880
+#: src/interface.c:882
 msgid ""
 "Nicolas Dufour <nicolasdufour@earthlink.net>\n"
 "http://www.nemoworld.info/\n"
@@ -159,11 +155,11 @@ msgid ""
 "It was fun to write it ;-)"
 msgstr ""
 
-#: src/interface.c:886
+#: src/interface.c:888
 msgid "Written by"
 msgstr ""
 
-#: src/interface.c:955
+#: src/interface.c:957
 msgid "Choose a theme file"
 msgstr ""
 
