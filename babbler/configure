@@ -1421,7 +1421,7 @@ fi
 
 PACKAGE=babbler
 
-VERSION=1.0-rc1
+VERSION=1.0
 
 if test "`cd $srcdir && pwd`" != "`pwd`" && test -f $srcdir/config.status; then
   { { echo "$as_me:$LINENO: error: source directory already configured; run \"make distclean\" there first" >&5
