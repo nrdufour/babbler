@@ -1,0 +1,8 @@
+# ChangeLog for gbabbler
+# Copyright 2004 Nicolas Dufour; Distributed undef the GPL v2
+
+gbabbler-0.9 (2003/11/25)
+	* First test for me of using GTK+ and Glade ;-)
+	* nice but need lots of improvments !
+	* need, of course, the presence of babbler command line program
+
